@@ -1,0 +1,5 @@
+vexa-Thankyou/
+  .github/
+    workflows/
+      static.yml      <-- your GitHub Pages workflow file
+  online_viewer_net.htm  <-- your HTML Thank You page
